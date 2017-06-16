@@ -1,4 +1,4 @@
-# Project Name
+# LiteSocket
 LiteSocket is a high performance socket library for Windows. It aimes to provide a modern and easy to use API for C++ developers that exposes the functionality of Winsock using I/O completion ports.
 
 ## Compiling
